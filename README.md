@@ -2,7 +2,7 @@
 - Una collezione di appunti per lo studio della Logica matematica.
 
 ### Argomenti (incompleto)
-- Logica proposizionale
+- [Logica proposizionale](https://github.com/Gabri432/logica_matematica/blob/master/logica_proposizionale.md)
 - Logica dei connettivi
 - altro...
 
