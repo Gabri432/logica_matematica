@@ -3,7 +3,7 @@
 
 ### Argomenti (incompleto)
 - [Logica proposizionale](https://github.com/Gabri432/logica_matematica/blob/master/logica_proposizionale.md)
-- Logica dei connettivi
+- [Logica dei connettivi](https://github.com/Gabri432/logica_matematica/blob/master/logica_dei_connettivi.md)
 - altro...
 
 ## Nota
