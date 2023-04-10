@@ -12,7 +12,7 @@
 | Proprietà       | Regola 1                              | Regola 2                                    |
 | :---            | :---                                  | :---                                        |
 |Doppia Negazione |                                       | !A <=>(t) A                                 |
-|DeMorgan:        |!(A  B) <=>(t) !A  !B                | !(A or B) <=>(t) !A and !B                  |
+|DeMorgan:        |!(A and B) <=>(t) !A or !B             | !(A or B) <=>(t) !A and !B                  |
 |Associatività:   |(A and B) and C <=>(t) A and (B and C) | (A or B) or C <=>(t) A or (B or C)          |
 |Commutatività:   |A and B <=>(t) B and A                 | A or B <=>(t) B or A                        |
 |Idempotenza:     |A and A <=>(t) A                       | A or A <=>(t) A                             |
