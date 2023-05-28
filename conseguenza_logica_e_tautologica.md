@@ -34,6 +34,6 @@
 2. AND Elim 
 - A AND B <=(t) A; 
 - A AND B <=(t) B;
-3. OR Intro A <=(t)
+3. OR Intro
 - A <=(t) A OR B;
 - B <=(t) A OR B;
