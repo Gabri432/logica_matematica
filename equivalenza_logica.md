@@ -27,3 +27,13 @@
 1. Se non troviamo interpretazioni booleane in cui C è falsa e le premesse sono tutte vere , allora C è conseguenza tautologica delle premesse.
 2. Se vi sono controesempi, ma nessuna di questi corrisponde ad una interpretazione possibile nel contesto, allora C è conseguenza logica delle premesse nel contesto ma non è conseguenza tautologica.
 3. Se 1,2 non valgono, C non è neppure conseguenza logica nel contesto.
+
+## Conseguenze fondamentali per i connettivi AND e OR
+-AND Intro 
+- - A, B <=(t) A AND B;
+- AND Elim 
+- - A AND B <=(t) A; 
+- - A AND B <=(t) B;
+- OR Intro A <=(t)
+- - A OR B;
+- - B <=(t) A OR B;
