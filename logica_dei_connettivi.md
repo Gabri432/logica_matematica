@@ -23,3 +23,5 @@
 ## Proprietà importanti
 - Se P è una tautologia allora P è logicamente vera in ogni contesto, ma vi sono formule logicamente vere (ad es.) in TW, che non sono tautologie.
 - Se P è possibile in un contesto allora è anche proposizionalmente possibile, ma vi sono formule proposizionalmente possibili ma impossibili.
+
+[Prossimo](https://github.com/Gabri432/logica_matematica/blob/master/conseguenza_logica_e_tautologica.md)

@@ -37,3 +37,5 @@
 3. OR Intro
 - A <=(t) A OR B;
 - B <=(t) A OR B;
+
+[Prossimo](https://github.com/Gabri432/logica_matematica/blob/master/implicazione_materiale.md)

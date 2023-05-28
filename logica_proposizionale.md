@@ -30,3 +30,5 @@
 - Conseguenza: Gigi non è il padre di Ugo;
 - Dim.: Supponiamo per assurdo che Gigi sia il padre di Ugo. Siccome sappiamo (da (ii)) che Gigi è il padre di Ada, Gigi è il padre di Ugo e di Ada. Dunque Ugo e Ada sono fratello e sorella. Ma ciò è assurdo poiché sappiamo (da (i)) che Ugo e Ada non sono parenti.
 Quindi Gigi non è il padre di Ugo.
+
+[Prossimo](https://github.com/Gabri432/logica_matematica/blob/master/logica_dei_connettivi.md)
