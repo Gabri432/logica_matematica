@@ -25,5 +25,5 @@
 
 ## Controesempio
 1. Se non troviamo interpretazioni booleane in cui C è falsa e le premesse sono tutte vere , allora C è conseguenza tautologica delle premesse.
-2. Se vi sono interpretazioni booleane, ma nessuna di queste corrisponde ad una interpretazione possibile nel contesto, allora C è conseguenza logica delle premesse nel contesto ma non è conseguenza tautologica.
+2. Se vi sono controesempi, ma nessuna di questi corrisponde ad una interpretazione possibile nel contesto, allora C è conseguenza logica delle premesse nel contesto ma non è conseguenza tautologica.
 3. Se 1,2 non valgono, C non è neppure conseguenza logica nel contesto.
