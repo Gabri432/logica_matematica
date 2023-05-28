@@ -29,11 +29,11 @@
 3. Se 1,2 non valgono, C non è neppure conseguenza logica nel contesto.
 
 ## Conseguenze fondamentali per i connettivi AND e OR
--AND Intro 
-- - A, B <=(t) A AND B;
-- AND Elim 
-- - A AND B <=(t) A; 
-- - A AND B <=(t) B;
-- OR Intro A <=(t)
-- - A OR B;
-- - B <=(t) A OR B;
+1. AND Intro 
+- A, B <=(t) A AND B;
+2. AND Elim 
+- A AND B <=(t) A; 
+- A AND B <=(t) B;
+3. OR Intro A <=(t)
+- A OR B;
+- B <=(t) A OR B;
