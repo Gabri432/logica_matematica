@@ -28,5 +28,14 @@
 - Sfruttano il Teorema di Deduzione, nella forma seguente: P <=(t) Q se e solo se <=(t) P -> Q;
 2. Regole di Eliminazione:
 - Servono per utilizzare conoscenza (un enunciato) in forma implicativa;
-- Sfruttano il principio (conseguenza tautologica) detto Modus Ponens: P, P → Q <=(t) Q;
+- Sfruttano il principio (conseguenza tautologica) detto Modus Ponens: P, P → Q <=(t) Q.
+
+## Conseguenze logiche notevoli
+1. Contrapposizione: 
+- <=(t) (P -> Q) <-> (!Q -> !P)
+2. Modus Tollens:
+- !Q, P -> Q <=(t) !P;
+3. Modus Tollens esteso a <->:
+- !Q, P <-> Q <=(t) !P;
+- !Q, Q <-> P <=(t) !P.
 
