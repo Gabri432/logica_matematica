@@ -5,6 +5,7 @@
 - [Logica proposizionale](https://github.com/Gabri432/logica_matematica/blob/master/logica_proposizionale.md)
 - [Logica dei connettivi](https://github.com/Gabri432/logica_matematica/blob/master/logica_dei_connettivi.md)
 - [Conseguenza Logica e Tautolologica](https://github.com/Gabri432/logica_matematica/blob/master/conseguenza_logica_e_tautologica.md)
+- [Implicazione Materiale](https://github.com/Gabri432/logica_matematica/blob/master/implicazione_materiale.md)
 - altro...
 
 ## Nota
